@@ -181,11 +181,11 @@ Advanced analysis was performed using:
 ## 🔑 Key Findings
 
 * The dataset contains 15,000 clean records with no missing values.
-* Employee count and customer count show positive business significance.
+* Employee count and customer count show negative business significance.
 * Revenue distribution is relatively balanced across industries.
 * Retail industry records the highest average revenue.
 * Market ratings remain moderate across most segments.
-* Industry and country combinations influence revenue performance.
+* Industry and country combinations does not influence revenue performance.
 * Regional customer trends remain stable over time.
 * No significant outliers were observed in the dataset.
 
