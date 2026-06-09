@@ -1,5 +1,11 @@
 # 📊 Project 3 - Exploratory Data Analysis (EDA) on Industry Dataset
 
+![Python](https://img.shields.io/badge/Language-Python%203.10+-blue)
+![Notebook](https://img.shields.io/badge/Environment-Jupyter%20Notebook-orange)
+![Domain](https://img.shields.io/badge/Domain-Enterprise%20Analytics-blueviolet)
+![Dataset](https://img.shields.io/badge/Dataset-15%2C000%20Records-teal)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 ## 📌 Project Overview
 
 This project focuses on performing **Exploratory Data Analysis (EDA)** on an Industry Dataset containing company-level information such as employee count, annual revenue, profit margin, customer count, market rating, industry, country, and region.
